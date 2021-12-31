@@ -1,24 +1,11 @@
-# README
+### Leaning localhost gem in Ruby on Rails 
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Gem: [localhsot](https://github.com/socketry/localhost)
 
-Things you may want to cover:
+#### How to run
 
-* Ruby version
+When you start the Rails server, you can connect using the https protocol *(https://localhost:3000).
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+```
+$ rails server
+```
